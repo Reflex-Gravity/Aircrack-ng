@@ -1,6 +1,6 @@
 echo  "Hey this is an Application created by Reflex_Gravity
       ----------------------------------------------------
-      Any harm due to this Application is not subjected to be under the creator or the developer or any of his family member"
+      Any harm due to this Application is not subjected to be under the creator or the developer or any of his family member."
 
 echo -e "---Select the option accordingly--- \n
            1. Setting the monitor and dumping signals \n
